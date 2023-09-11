@@ -1,0 +1,16 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2d2bb8;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    text-align: center;
+    background-color: #007BFF;
+    color: rgb(151, 34, 34);
+    padding: 10px;
+}
+
+/* เพิ่มสไตล์อื่นๆ ตามที่คุณต้องการ */

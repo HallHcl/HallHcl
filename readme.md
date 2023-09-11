@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HallHcl
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning for operation security
+- 💞️ I’m looking to collaborate on business
+- 📫 How to reach me iG:17sep.hall
