@@ -1,38 +1,38 @@
 <div align="center">
 
-# 👋 Hi there, I'm Chanachol Kamolprapa (@HallHcl)
+# 👋 สวัสดีครับ ผม ชณชล กมลประภา (@HallHcl)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Junior+System+Engineer;Linux+%26+Infrastructure+Enthusiast;Zabbix+Monitoring+%26+Observability;Automation+with+Ansible+%26+Python;Eager+to+Learn+%26+Explore+OpSec)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Junior+System+Engineer;หลงใหลในระบบ+Linux+%26+Infrastructure;ผู้ดูแลระบบ+Zabbix+Monitoring;ระบบอัตโนมัติด้วย+Ansible+%26+Python;พร้อมเรียนรู้และศึกษาด้าน+OpSec)](https://git.io/typing-svg)
 
 <p align="center">
-  <b>Junior System Engineer</b> with a strong passion for <b>Linux Administration</b>, <b>Enterprise Monitoring (Zabbix)</b>, <b>Infrastructure Automation (Ansible)</b>, and <b>Operation Security (OpSec)</b>.
+  <b>Junior System Engineer</b> ที่มีความหลงใหลในงาน <b>Linux Administration</b>, ระบบตรวจวัดและเฝ้าระวัง <b>Enterprise Monitoring (Zabbix)</b>, ระบบอัตโนมัติ <b>Infrastructure Automation (Ansible)</b> และความปลอดภัยของระบบ <b>Operation Security (OpSec)</b>
 </p>
 
 <p align="center">
   <a href="https://instagram.com/17sep.hall"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://github.com/HallHcl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Status-Eager%20to%20Learn%20%26%20Grow-22c55e?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/สถานะ-พร้อมเรียนรู้และพัฒนาอย่างต่อเนื่อง-22c55e?style=for-the-badge" alt="Status" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 ข้อมูลเกี่ยวกับผม (About Me)
 
-- 🐧 **Linux & System Administration:** Practical experience configuring, troubleshooting, and securing Linux systems (**AlmaLinux 8/9**, **RHEL**, and **Ubuntu 24.04 LTS**), managing `systemd` services, and applying **SELinux** security policies.
-- 📊 **Observability & Monitoring:** Hands-on experience with **Zabbix 7.0** (Server, Proxy, Agent 2, SNMPv2c/v3, ICMP), designing custom templates, building automated report engines, and integrating real-time telemetry into modern dashboards.
-- ⚡ **Automation & Scripting:** Dedicated to eliminating repetitive manual tasks using **Ansible** playbooks, **Python** automation scripts, **Bash**, and **PowerShell**.
-- 🛡️ **Operation Security (OpSec):** Passionate about defensive security, credential isolation (no client-side secrets), audit logging, and High-Availability (HA) clustering (Patroni, etcd).
-- 🌱 **Mindset:** A curious and persistent Junior Engineer who loves getting hands dirty in labs, reading technical documentation, and learning best practices from senior mentors.
+- 🐧 **การดูแลระบบ Linux (System Administration):** มีประสบการณ์ลงมือปฏิบัติจริงในการติดตั้ง กำหนดค่า แก้ไขปัญหา และรักษาความปลอดภัยบนระบบปฏิบัติการ Linux (**AlmaLinux 8/9**, **RHEL**, และ **Ubuntu 24.04 LTS**), การจัดการ Service ด้วย `systemd`, และการควบคุมความปลอดภัยด้วย **SELinux**
+- 📊 **ระบบตรวจสอบและเฝ้าระวัง (Observability & Monitoring):** คุ้นเคยและลงมือทำระบบ **Zabbix 7.0** อย่างลึกซึ้ง (Server, Proxy, Agent 2, SNMPv2c/v3, ICMP), การสร้าง Template เฉพาะทาง, พัฒนาระบบออกรายงานอัตโนมัติ และการเชื่อมต่อ Telemetry เข้าสู่หน้าแดชบอร์ดแบบ Real-time
+- ⚡ **ระบบอัตโนมัติและการเขียนสคริปต์ (Automation & Scripting):** ลดภาระงานดูแลระบบที่ซ้ำซ้อนด้วย **Ansible** Playbooks, สคริปต์ **Python**, **Bash**, และ **PowerShell**
+- 🛡️ **ความปลอดภัยในการปฏิบัติการ (Operation Security - OpSec):** ให้ความสำคัญกับการแยกเก็บความลับของระบบ (Zero Client Secrets), การเก็บบันทึก Audit Logs ที่แก้ไขไม่ได้ และการทำระบบที่มีความพร้อมใช้งานสูง (High Availability - HA) เช่น Patroni และ etcd
+- 🌱 **ทัศนคติการทำงาน:** มีความมุ่งมั่น กระตือรือร้น ชอบลงมือทดลองจริงในระบบ Lab อ่านคู่มือทางเทคนิค และพร้อมเรียนรู้เทคนิคและคำแนะนำจากวิศวกรผู้เชี่ยวชาญ
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🛠️ เครื่องมือและทักษะทางเทคนิค (Technical Toolkit)
 
 <div align="center">
 
-#### 🐧 Operating Systems & Infrastructure
+#### 🐧 ระบบปฏิบัติการและโครงสร้างพื้นฐาน (OS & Infrastructure)
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-102542?style=flat-square&logo=almalinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -40,27 +40,27 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-#### 📊 Monitoring & Observability
+#### 📊 ระบบตรวจวัดและเฝ้าระวัง (Monitoring & Observability)
 ![Zabbix](https://img.shields.io/badge/Zabbix_7.0-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![SNMP](https://img.shields.io/badge/SNMP_v2c%2Fv3-4338CA?style=flat-square&logo=wireshark&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black)
 
-#### ⚡ Automation, Scripting & Languages
+#### ⚡ ระบบอัตโนมัติและภาษาโปรแกรม (Automation, Scripting & Languages)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-#### 🗄️ Databases & High Availability
+#### 🗄️ ฐานข้อมูลและระบบ High Availability
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Patroni](https://img.shields.io/badge/Patroni_HA-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![etcd](https://img.shields.io/badge/etcd_Cluster-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis_7-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-#### 🌐 Full-Stack & Internal Tooling
+#### 🌐 การพัฒนาเว็บและเครื่องมือภายใน (Web & Internal Tooling)
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -71,61 +71,61 @@
 
 ---
 
-### 🌟 Hands-on Systems & Engineering Projects (The "Custom" Suite)
+### 🌟 ประสบการณ์จริงและโปรเจกต์เชิงระบบ (ชุดผลงานตระกูล "Custom")
 
-Here are the key practical projects I've built and engineered to solve real-world infrastructure, monitoring, and operational challenges:
+รวมผลงานที่ได้ออกแบบ พัฒนา และลงมือทำจริงเพื่อแก้โจทย์ด้านระบบโครงสร้างพื้นฐาน เฝ้าระวัง และการจัดการงานระบบ:
 
-#### 1. 🏢 Data Center & Observability
+#### 1. 🏢 การจัดการดาต้าเซ็นเตอร์และการเฝ้าระวัง (Data Center & Observability)
 - **[Custom-zabbix-inventory (DC VISION)](https://github.com/HallHcl/Custom-zabbix-inventory)** *(Public)*  
-  *Data Center Infrastructure Management (DCIM) & 42U Rack Elevation Dashboard*  
-  Built a responsive DCIM dashboard featuring interactive 2.5D isometric floor plans and 42U rack elevation views. Integrates directly with **Zabbix 7.0 JSON-RPC API**, **Redis 7** telemetry caching, and **PostgreSQL 16**.  
+  *ระบบบริหารจัดการดาต้าเซ็นเตอร์ (DCIM) และแดชบอร์ด 42U Rack Elevation*  
+  พัฒนาแดชบอร์ด DCIM แสดงผลแผนผังห้องเซิร์ฟเวอร์แบบ 2.5D Isometric Floor Plan และจำลองตู้แร็ค 42U แบบ Interactive เชื่อมต่อดึงข้อมูลสดผ่าน **Zabbix 7.0 JSON-RPC API**, แคชข้อมูลด้วย **Redis 7** และจัดเก็บ CMDB บน **PostgreSQL 16**  
   `React 19` `FastAPI` `Redis` `PostgreSQL` `Zabbix API`
 
 - **Custom-Zabbix-Template-H3C-by-SNMP** *(Private)*  
-  *Automated Discovery & Telemetry for H3C Cloudnet Devices*  
-  Developed an automated Python poller communicating with H3C Oasis Cloud API to dynamically discover and monitor Wireless Access Controllers (WAC), Routers, Switches, APs, and WLAN profiles into Zabbix via **Zabbix Sender**.  
+  *ระบบ Auto-Discovery และตรวจวัดอุปกรณ์ H3C Cloudnet เข้าสู่ Zabbix*  
+  เขียนสคริปต์ Python Poller ติดต่อกับ Oasis Cloud API ของ H3C เพื่อค้นหาและดึง Metrics อัตโนมัติสำหรับ Wireless Access Controller (WAC), Router, Switch, AP และ WLAN ส่งตรงเข้า Zabbix ผ่าน **Zabbix Sender**  
   `Python` `H3C API` `Zabbix Sender` `YAML Templates`
 
-#### 2. ⚡ Infrastructure Automation & Deployment
+#### 2. ⚡ ระบบอัตโนมัติและการติดตั้งระบบ (Automation & Deployment)
 - **[Custom-ansible-deploy-compiled](https://github.com/HallHcl/Custom-ansible-deploy-compiled)** *(Private / Active)*  
-  *Multi-OS Production Deployment Automation Framework*  
-  Created a standardized 7-step Ansible deployment framework to distribute pre-compiled binary packages (Zabbix Agent 2, Proxies, PHP, MariaDB) across **AlmaLinux 8/9** and **Ubuntu 24.04**. Includes automated custom **SELinux policy compilation**, systemd service management, and Patroni HA cluster orchestration.  
+  *เฟรมเวิร์ก Ansible ติดตั้ง Binary สำเร็จรูปและระบบคลัสเตอร์ Multi-OS*  
+  ออกแบบกระบวนการติดตั้งมาตรฐาน 7 ขั้นตอนบน Ansible เพื่อกระจายไฟล์ Binary (.tar.gz) ของ Zabbix Agent 2, Proxy, PHP และ MariaDB ข้ามระบบปฏิบัติการ **AlmaLinux 8/9** และ **Ubuntu 24.04** รองรับการคอมไพล์ **SELinux Policy** อัตโนมัติ และการติดตั้ง Patroni HA Cluster  
   `Ansible` `Python` `AlmaLinux` `Ubuntu` `SELinux` `Patroni HA`
 
 - **Custom-SNMP** *(Private)*  
-  *Zabbix 7.0 SNMP & ICMP Network Device Provisioning Engine*  
-  Engineered an automation script to parse network inventory data from Excel, perform safe multi-tier host matching heuristics, dynamically inject `{$SNMP_COMMUNITY}` macros, and link ICMP templates with a strict dry-run verification mode.  
+  *เครื่องมือ Provision อุปกรณ์เครือข่ายเข้า Zabbix 7.0 ด้วย SNMP & ICMP อัตโนมัติ*  
+  พัฒนาสคริปต์อ่านข้อมูลโฮสต์เครือข่ายจากไฟล์ Excel เพื่อนำเข้า Zabbix อย่างปลอดภัย ด้วยระบบจับคู่ชื่อโฮสต์หลายระดับ, ผูก Macro `{$SNMP_COMMUNITY}` อัตโนมัติ และลิงก์ ICMP Template พร้อมโหมดทดสอบ Dry-run  
   `Python` `Zabbix API` `SNMPv2c` `ICMP` `Pandas`
 
-#### 3. 🤖 AI ChatOps & Executive Reporting
+#### 3. 🤖 AI ChatOps และระบบรายงานสำหรับผู้บริหาร (AI & Executive Reporting)
 - **Custom-n8n-flow-zabbix** *(Private)*  
   *Visual n8n Workflow Editor & NOC Command Center*  
-  Engineered a visual orchestration canvas with full LangChain AI sub-node routing (RAG, Gemini, Claude, Ollama), interactive ChatOps console, and real-time Zabbix alert telemetry. Designed with zero client-side secret leakage via reverse proxy.  
+  ออกแบบ Canvas จัดการ Workflow ของ n8n เชื่อมโยงโมเดล AI (LangChain, RAG, Gemini, Claude, Ollama), ระบบห้องแชท ChatOps และแสดงผลการแจ้งเตือนจาก Zabbix NOC แบบ Real-time โดยไม่เปิดเผย Secret สู่หน้าบ้านผ่าน Reverse Proxy  
   `React 19` `React Flow` `Zustand` `Zabbix API` `n8n Webhook`
 
 - **Custom-Zabbix-Report** *(Private)*  
-  *Executive Zabbix Reporting Portal & Scheduled PDF Generator*  
-  Developed an interactive reporting portal that visualizes time-series metrics with Apache ECharts and generates automated executive PDF summaries via **APScheduler** and **FastAPI**. Features an extensible **MCP Server** for AI querying.  
+  *พอร์ทัลสร้างรายงานสรุปผล Zabbix และระบบออกรายงาน PDF อัตโนมัติ*  
+  พัฒนาระบบ Interactive แสดงกราฟสถิติ Time-series ด้วย Apache ECharts และตั้งเวลาออกรายงานสรุป PDF สำหรับผู้บริหารอัตโนมัติผ่าน **APScheduler** และ **FastAPI** พร้อมเชื่อมต่อ **MCP Server** สำหรับให้ AI วิเคราะห์ข้อมูล  
   `React` `FastAPI` `PostgreSQL` `ECharts` `WeasyPrint` `MCP Server`
 
-#### 4. 🛡️ IT Operations & Asset Governance
+#### 4. 🛡️ การบริหารจัดการงานระบบและทรัพยากรไอที (IT Operations & Governance)
 - **[Custom-Vault-Service (QQM)](https://github.com/HallHcl/Custom-Vault-Service)** *(Public)*  
-  *IT Operations, Infrastructure Asset & Expiration Tracking Platform*  
-  Full-stack internal management portal for System Integrator teams to track server inventories, environments (Dev/Staging/Prod), Preventive Maintenance (PM) schedules, and automated alerts for expiring SSL certificates and licenses.  
+  *แพลตฟอร์มบริหารจัดการทรัพยากรไอที เซิร์ฟเวอร์ และการแจ้งเตือนวันหมดอายุ*  
+  เว็บแอปพลิเคชัน Full-Stack สำหรับทีม System Integrator ใช้ติดตามสถานะเซิร์ฟเวอร์, สภาพแวดล้อมระบบ (Dev/Staging/Prod), แผนงานบำรุงรักษา (PM/MA), ระบบแจ้งเตือนวันหมดอายุ SSL/License และ Activity Log แบบแก้ไขไม่ได้  
   `TypeScript` `Express.js` `React` `PostgreSQL` `Docker Compose` `JWT`
 
 - **Custom-Managed-PDF-Backup-Service** *(Private)*  
-  *Full-Stack PDF Management & Database Backup Portal*  
-  Comprehensive service portal built with Angular and FastAPI to automate Zabbix performance report generation, manage PostgreSQL database backups, and centralize operational logs.  
+  *ระบบพอร์ทัลจัดการรายงาน PDF และการสำรองฐานข้อมูล*  
+  พอร์ทัลศูนย์กลางที่สร้างด้วย Angular และ FastAPI สำหรับออกรายงานสรุปประสิทธิภาพ Zabbix, จัดการการสำรองข้อมูล PostgreSQL และบริหารจัดการ Logs ในระบบ  
   `Angular` `TailwindCSS` `FastAPI` `PHP-FPM` `PostgreSQL` `Nginx`
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 สถิติและความเคลื่อนไหวบน GitHub (GitHub Activity & Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HallHcl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallHcl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HallHcl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&locale=th" height="150" alt="สถิติ GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallHcl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&locale=th" height="150" alt="ภาษาที่ใช้บ่อยที่สุด" />
 </div>
 
 <div align="center">
@@ -134,17 +134,17 @@ Here are the key practical projects I've built and engineered to solve real-worl
 
 ---
 
-### 💬 Get In Touch
+### 💬 ช่องทางการติดต่อ (Get In Touch)
 
 <p align="center">
-  I am always open to discussing <b>System Administration</b>, <b>Linux & Observability</b>, <b>Automation Workflows</b>, or junior engineering opportunities!
+  ยินดีพูดคุย แลกเปลี่ยนความรู้ หรือรับคำแนะนำในสายงาน <b>System Administration</b>, <b>Linux & Observability</b>, <b>Automation</b> หรือโอกาสร่วมงานในตำแหน่ง Junior System Engineer ครับ!
 </p>
 
 <p align="center">
   <a href="https://instagram.com/17sep.hall">
-    <img src="https://img.shields.io/badge/DM%20on%20Instagram-@17sep.hall-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/ส่งข้อความทาง%20Instagram-@17sep.hall-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/HallHcl">
-    <img src="https://img.shields.io/badge/Follow-@HallHcl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/ติดตาม-@HallHcl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
